@@ -3,8 +3,8 @@ include(vcpkg_common_functions)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO mat007/turtle
-    REF e92f52821da312c5e30b447c8046893e576aefca
-    SHA512 a9997a67690e165d7fb5b3f55439e6506595c56873e8d6e87facf92d2ce988036bc18019dd44d4f255dc34a7e0666abc662bca43b9c4bdfb87b7e527cc53dfea
+    REF v1.3.1
+    SHA512 2a79a23ca7da669a11012dea98216aad44d2bed1be4dd4b75e5fbb07a7ba61f87a117284157bd117698544c31eefe06df8621727acd287ab6530a0138f524434
     HEAD_REF master
 )
 
